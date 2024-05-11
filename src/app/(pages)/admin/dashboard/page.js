@@ -1,3 +1,7 @@
 export default function Page() {
-    return <main>Admin Dashboard</main>
+    return (
+        <main>
+            <>Admin Dashboard</>
+        </main>
+    )
 }
